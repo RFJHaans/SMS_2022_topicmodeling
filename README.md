@@ -3,7 +3,7 @@ Materials for my presentation on topic modeling for the 2022 SMS Research Method
 
 First time setup in R
 =====================
-In order to follow the code developed for the workshop (shown in full below under Workshop example), two pieces of software need to be installed beforehand. The first is R, a free software environment for statistical computing and graphics. The second is RStudio, which is a graphical user interface that goes 'over' R, making it more user friendly. It is adamant that R is installed first, and RStudio second.
+In order to follow the R code developed for the workshop, two pieces of software need to be installed beforehand. The first is R, a free software environment for statistical computing and graphics. The second is RStudio, which is a graphical user interface that goes 'over' R, making it more user friendly. It is adamant that R is installed first, and RStudio second.
 
 Before running the code shown below, install R on your system by going to the following page:
 https://cran.r-project.org/
